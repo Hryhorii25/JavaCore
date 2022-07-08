@@ -1,0 +1,5 @@
+div {
+    -webkit-column-width: 100px;
+    -moz-column-width: 1000px;
+    column-width: auto;
+}

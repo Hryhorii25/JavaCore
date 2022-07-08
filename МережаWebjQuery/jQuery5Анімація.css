@@ -1,0 +1,17 @@
+.anim{
+    height: 150px;
+    width: 150px;
+    background-color: green;
+}
+
+.anim1{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+}
+
+.anim2{
+    height: 150px;
+    width: 150px;
+    background-color:blue;
+}
