@@ -1,0 +1,4 @@
+INSERT INTO `collcompany`.`customers` (`id`, `customer_name`, `customer_adres`, `customer_city`, `customer_country`) VALUES ('1', 'Ivan', 'Nezalecnosti', 'IF', 'UA');
+INSERT INTO `collcompany`.`customers` (`id`, `customer_name`, `customer_adres`, `customer_city`, `customer_country`) VALUES ('2', 'Oleg', 'Ivasuca', 'IF', 'UA');
+INSERT INTO `collcompany`.`customers` (`id`, `customer_name`, `customer_adres`, `customer_city`, `customer_country`) VALUES ('3', 'Vasyl', 'Ivasyka12', 'IF', 'UA');
+INSERT INTO `collcompany`.`customers` (`id`) VALUES ('4')
